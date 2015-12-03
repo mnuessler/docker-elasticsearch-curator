@@ -1,0 +1,6 @@
+click==6.2
+elasticsearch==2.0.0
+elasticsearch-curator==3.4.0
+urllib3==1.12
+virtualenv==13.1.2
+wheel==0.26.0
